@@ -51,7 +51,7 @@
   </views>
   <instances>
     <instance objName="objectPlayer" x="208" y="176" name="inst_56F2001B" locked="0" code="" scaleX="1.5" scaleY="1.5" colour="4294967295" rotation="0"/>
-    <instance objName="objectEnemy" x="160" y="64" name="inst_1D649F3C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="&lt;undefined&gt;" x="160" y="64" name="inst_1D649F3C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objectWall" x="-16" y="240" name="inst_1759F8C3" locked="0" code="" scaleX="0" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objectWall" x="-16" y="400" name="inst_41C63848" locked="0" code="" scaleX="0.5" scaleY="0.5" colour="4294967295" rotation="0"/>
     <instance objName="objectWall" x="-16" y="368" name="inst_7523A8D2" locked="0" code="" scaleX="0.5" scaleY="0.5" colour="4294967295" rotation="0"/>
